@@ -1,0 +1,4 @@
+main
+tests_run
+*.o
+.DS_Store
